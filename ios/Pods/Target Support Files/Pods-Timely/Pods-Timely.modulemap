@@ -1,0 +1,6 @@
+module Pods_Timely {
+  umbrella header "Pods-Timely-umbrella.h"
+
+  export *
+  module * { export * }
+}

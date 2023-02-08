@@ -1,0 +1,6 @@
+module Pods_Timely_TimelyTests {
+  umbrella header "Pods-Timely-TimelyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
